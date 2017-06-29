@@ -1,0 +1,72 @@
+set terminal png
+set output "outfile.png"
+plot "data" using 1:2 with points 7
+pause 0.1
+clear
+set terminal png
+set output "outfile.png"
+plot "dataA" using 1:2 with points 7
+pause 0.1
+clear
+set terminal png
+set output "outfile.png"
+plot "dataAA" using 1:2 with points 7
+pause 0.1
+clear
+set terminal png
+set output "outfile.png"
+plot "dataAAA" using 1:2 with points 7
+pause 0.1
+clear
+set terminal png
+set output "outfile.png"
+plot "dataAAAA" using 1:2 with points 7
+pause 0.1
+clear
+set terminal png
+set output "outfile.png"
+plot "dataAAAAA" using 1:2 with points 7
+pause 0.1
+clear
+set terminal png
+set output "outfile.png"
+plot "dataAAAAAA" using 1:2 with points 7
+pause 0.1
+clear
+set terminal png
+set output "outfile.png"
+plot "dataAAAAAAA" using 1:2 with points 7
+pause 0.1
+clear
+set terminal png
+set output "outfile.png"
+plot "dataAAAAAAAA" using 1:2 with points 7
+pause 0.1
+clear
+set terminal png
+set output "outfile.png"
+plot "dataAAAAAAAAA" using 1:2 with points 7
+pause 0.1
+clear
+set terminal png
+set output "outfile.png"
+plot "dataAAAAAAAAAA" using 1:2 with points 7
+pause 0.1
+clear
+set terminal png
+set output "outfile.png"
+plot "dataAAAAAAAAAAA" using 1:2 with points 7
+pause 0.1
+clear
+set terminal png
+set output "outfile.png"
+plot "dataAAAAAAAAAAAA" using 1:2 with points 7
+pause 0.1
+clear
+set terminal png
+set output "outfile.png"
+plot "dataAAAAAAAAAAAAA" using 1:2 with points 7
+pause 0.1
+clear
+plot "dataAAAAAAAAAAAAAA" using 1:2 with points 7
+pause mouse

@@ -1,0 +1,41 @@
+plot "data" using 1:2 with points 4
+pause 0.25
+plot "data" using 1:2 with points 4
+pause 0.25
+clearplot "data" using 1:2 with points 4
+pause 0.25
+clearplot "data" using 1:2 with points 4
+pause 0.25
+clearplot "data" using 1:2 with points 4
+pause 0.25
+clearplot "data" using 1:2 with points 4
+pause 0.25
+clearplot "data" using 1:2 with points 4
+pause 0.25
+clearplot "data" using 1:2 with points 4
+pause 0.25
+clearplot "data" using 1:2 with points 4
+pause 0.25
+clearplot "data" using 1:2 with points 4
+pause 0.25
+clearplot "data" using 1:2 with points 4
+pause 0.25
+clearplot "data" using 1:2 with points 4
+pause 0.25
+clearplot "data" using 1:2 with points 4
+pause 0.25
+clearplot "data" using 1:2 with points 4
+pause 0.25
+clearplot "data" using 1:2 with points 4
+pause 0.25
+clearplot "data" using 1:2 with points 4
+pause 0.25
+clearplot "data" using 1:2 with points 4
+pause 0.25
+clearplot "data" using 1:2 with points 4
+pause 0.25
+clearplot "data" using 1:2 with points 4
+pause 0.25
+clearplot "data" using 1:2 with points 4
+pause 0.25
+clear
